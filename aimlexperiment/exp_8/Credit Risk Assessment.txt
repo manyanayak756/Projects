@@ -1,0 +1,1 @@
+Analyze customer/financial information and predict whether a person represents high or low credit risk

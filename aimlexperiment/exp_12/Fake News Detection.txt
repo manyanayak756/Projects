@@ -1,0 +1,1 @@
+Analyze news text and classify it as fake or real using NLP and machine learning.

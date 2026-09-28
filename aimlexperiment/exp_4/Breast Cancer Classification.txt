@@ -1,0 +1,1 @@
+Use medical features to classify a case as benign or malignant.

@@ -1,0 +1,1 @@
+Recommend items such as movies to a user based on similarity or previous preferences. We are making this with our own database.csv.

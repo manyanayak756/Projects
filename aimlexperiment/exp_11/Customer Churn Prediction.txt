@@ -1,0 +1,1 @@
+Predict whether a customer is likely to leave/cancel a service based on customer information.

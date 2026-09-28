@@ -1,0 +1,1 @@
+Predict house prices using features such as bedrooms, bathrooms, area, location, etc. This is a regression problem

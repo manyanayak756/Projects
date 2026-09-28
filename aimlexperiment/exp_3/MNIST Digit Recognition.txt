@@ -1,0 +1,1 @@
+Train a model to recognize handwritten digits from 0–9 using image data.
